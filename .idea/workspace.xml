@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d99f44b1-39e7-42b7-aa72-9cf4e852377a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1fz9luiE0JV6utxrUdSaGrH7Vu1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d99f44b1-39e7-42b7-aa72-9cf4e852377a" name="Default Changelist" comment="" />
+      <created>1597210208536</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597210208536</updated>
+      <workItem from="1597210210702" duration="7436000" />
+      <workItem from="1597250450571" duration="593000" />
+      <workItem from="1597312977380" duration="95000" />
+      <workItem from="1597313182070" duration="598000" />
+      <workItem from="1597524037077" duration="438000" />
+      <workItem from="1597918612820" duration="662000" />
+      <workItem from="1598338556079" duration="3251000" />
+      <workItem from="1598346008580" duration="291000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
